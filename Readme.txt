@@ -1,3 +1,10 @@
+--------------------------------Expense Sharing App------------------------------------------------------------
+
+Here is a link to the App : http://aditya1211.pythonanywhere.com/
+
+Note: That database is not added
+
+Commands to run on local server
 1. clone the Git repository
 2. Use the command "python manage.py runserver" to run on your local host
 
