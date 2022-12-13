@@ -9,10 +9,10 @@ Commands to run on local server
 2. Use the command "python manage.py runserver" to run on your local host
 
 Assumptions
-1. paidByUser is the name of user who on paid 
+1. paidByUser is the name of user who paid 
 2. Amount in the form has to be positive integer
-3. ShareType should be of either of two "Percent" and "ExactAmount" (Case Sensitive)
-4. User name is case sensitive
+3. ShareType should be either "Percent" or "ExactAmount" (Case Sensitive)
+4. User names are case sensitive
 5. User involved in a transaction should be seperated by ','
 6. Percentage of expense and exact amount should also be seperated by ',' and '%' symbol is not required
 7. Description contains the description of expense
