@@ -33,3 +33,10 @@ User Involved: user1,user5
 Share of Expense Among user: 40,60
 Description: Lunch Bill
 
+------------------------------------------------------------------------------------
+1.To check your dues you must click on "Check Your Dues" appering on top-left side of 
+home page. 
+2. A new page will be prompted, It will ask for your name
+3. Enter your name (Case Sensitive) and submit
+4. New page will be prompted, showing the net balance with other user
+5. A user will appear on above only if it some non zero balance
